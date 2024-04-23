@@ -14,8 +14,8 @@ const DataFetcher = () => {
   }
 
   return (
-    <div>
-      <div id="all-data">
+    <div>     
+      <div id='all-data'>
       {data.map((user) => (
           <Card key={user.id} user={user}/>
         ))}

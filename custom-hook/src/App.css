@@ -4,6 +4,8 @@
   width: 100vw;
   height: 10000px;
   padding-left: 3%;
+  justify-content: center;
+  align-items: center;
 }
 .card{
   width:250px;

@@ -1,4 +1,4 @@
-# [Deployed Link](https://app.netlify.com/sites/lucent-naiad-5508a2/deploys/66291e08fdf1a703d9565a6d)
+# [Deployed Link](https://66291f7f4ace37066def1904--lucent-naiad-5508a2.netlify.app/)
 
 # React Custom Hook useFetch Example
 
